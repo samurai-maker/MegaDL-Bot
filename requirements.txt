@@ -4,4 +4,4 @@ pyrogram==1.4.16
 tgcrypto
 ffmpeg-python
 hurry.filesize
-git+https://github.com/asmsafone/mega.py.git
+git+https://github.com/samurai-maker/mega.py.git
