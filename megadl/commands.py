@@ -25,7 +25,7 @@ async def help(bot, message, cb=False):
         InlineKeyboardButton(f'🏠 HOME', callback_data='back'),
         InlineKeyboardButton(f'ABOUT 👨', callback_data='about')
         ],[
-        InlineKeyboardButton(f'🎧 DEV', url='https://t.me/slogan_98'),
+        InlineKeyboardButton(f'🎧 DEV', url='https://t.me/DevAXD'),
         InlineKeyboardButton(f'CLOSE 🔐', callback_data='close')
         ]]
     reply_markup = InlineKeyboardMarkup(button)
@@ -57,7 +57,7 @@ async def start(bot, message, cb=False):
         InlineKeyboardButton(f'💡 HELP', callback_data='help'),
         InlineKeyboardButton(f'ABOUT 👨', callback_data="about")
         ],[
-        InlineKeyboardButton(f'🎧 DEV', url='https://t.me/slogan_98'),
+        InlineKeyboardButton(f'🎧 DEV', url='https://t.me/DEvAXD'),
         InlineKeyboardButton(f'CLOSE 🔐', callback_data="close")
         ]]
     reply_markup = InlineKeyboardMarkup(button)
@@ -87,7 +87,7 @@ async def about(bot, message, cb=False):
         InlineKeyboardButton(f'🏠 HOME', callback_data='back'),
         InlineKeyboardButton(f'HELP 💡', callback_data='help')
         ],[
-        InlineKeyboardButton(f'🎧 DEV', url='https://t.me/slogan_98'),
+        InlineKeyboardButton(f'🎧 DEV', url='https://t.me/DEvAXD'),
         InlineKeyboardButton(f'CLOSE 🔐', callback_data="close")
         ]]
     reply_markup = InlineKeyboardMarkup(button)
