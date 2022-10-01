@@ -44,10 +44,16 @@ class TEXT:
 """
 
   START_TEXT = """
+ ╔═╗───╔╗───╔╦═╗
+║═╬═╦╦╣╠╦═╦╝║═╣
+╠═║╬║║║═╣╬║╬╠═║
+╚═╣╔╬╗╠╩╩═╩═╩═╝
+──╚╝╚═╝
+ 
 👋🏻 **Hi** {user_mention},
-
 **I'm**  **{bot_name}**
 **I Can Download Files & Videos From Mega.nz Links & Upload To Telegram. Please Check Help To Learn More 😉!****
+
 
 **Maintained By: {bot_owner}**❤️!
 """
