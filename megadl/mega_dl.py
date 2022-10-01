@@ -130,8 +130,8 @@ async def megadl(bot, message):
                     [
                         [
                             InlineKeyboardButton(
-                                "🙌 SHARE 🙌",
-                                url="https://t.me/share/url?url=**Hey%20Guys!%20%20Check%20Out%20@AsmSafone's%20Bots%20Channel.%20%20Share%20His%20Bots%20And%20Support%20Him%20%F0%9F%98%89!%20%20Here%20Is%20The%20Bots%20List%20:-%20https://t.me/AsmSafone/173**",
+                                "🧪 SHARE",
+                                url="https://t.me/share/url?url=**Hey%20Guys!%20%20Check%20Out%20@Spykids_SQL's%20Channel.%20%20Share%20And%20Support%20%F0%9F%98%89!%20%20Here%20Is%20The%20Bots%20List%20:-%20https://t.me/Spykids_SQL/19**",
                             )
                         ]
                     ]
@@ -165,8 +165,8 @@ async def megadl(bot, message):
                 [
                     [
                         InlineKeyboardButton(
-                            "🙌 SHARE 🙌",
-                            url="https://t.me/share/url?url=**Hey%20Guys!%20%20Check%20Out%20@AsmSafone's%20Bots%20Channel.%20%20Share%20His%20Bots%20And%20Support%20Him%20%F0%9F%98%89!%20%20Here%20Is%20The%20Bots%20List%20:-%20https://t.me/AsmSafone/173**",
+                             "🧪 SHARE",
+                                url="https://t.me/share/url?url=**Hey%20Guys!%20%20Check%20Out%20@Spykids_SQL's%20Channel.%20%20Share%20And%20Support%20%F0%9F%98%89!%20%20Here%20Is%20The%20Bots%20List%20:-%20https://t.me/Spykids_SQL/19**",
                         )
                     ]
                 ]
